@@ -57,7 +57,6 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
-
 /**
  * A class to centralize all the network and link properties information
  * pertaining to the current and any potential upstream network.
